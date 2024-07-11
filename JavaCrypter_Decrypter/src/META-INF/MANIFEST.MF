@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.jceloto7.javaCrypter_Decrypter.JavaCrypter_DecrypterAppl
+ ication
+
