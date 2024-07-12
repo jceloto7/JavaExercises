@@ -1,7 +1,8 @@
 package com.jceloto7;
 
-import com.jceloto7.model.Product;
+//testando o git
 
+import com.jceloto7.model.Product;
 import java.util.function.BinaryOperator;
 import java.util.function.Consumer;
 import java.util.function.UnaryOperator;
